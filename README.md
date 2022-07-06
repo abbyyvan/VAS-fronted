@@ -11,4 +11,6 @@
   7. as a user, i want to review my config file before downloading.
   8. as a user, i want the config file can be save as Yaml to my local directory
   
+<img width="603" alt="image" src="https://user-images.githubusercontent.com/47904921/177613334-1e535de3-e098-44c5-b840-54552c5c95cb.png">
+
 +downloading
