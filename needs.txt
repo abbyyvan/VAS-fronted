@@ -1,0 +1,5 @@
+1. main window 
+2. generate congif 
+    +select timestamp, email, password(selector.py)
+    +yaml file saved to local (save.py)
+3. download data
