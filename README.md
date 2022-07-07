@@ -12,9 +12,11 @@
   8. as a user, i want the config file can be save as Yaml to my local directory
   
 #home page
+<br>
 <img width="603" alt="image" src="https://user-images.githubusercontent.com/47904921/177613334-1e535de3-e098-44c5-b840-54552c5c95cb.png">
 
 #config generate
+<br>
 ![image](https://user-images.githubusercontent.com/47904921/177684115-7c568b3b-8f4f-45a9-b8a8-744fe6d929b8.png)
 
 
