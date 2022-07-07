@@ -15,7 +15,8 @@
 <img width="603" alt="image" src="https://user-images.githubusercontent.com/47904921/177613334-1e535de3-e098-44c5-b840-54552c5c95cb.png">
 
 #config generate
-![image](https://user-images.githubusercontent.com/47904921/177684037-8a98cd1b-e2fe-4f66-883b-08064c7ccd79.png)
+![image](https://user-images.githubusercontent.com/47904921/177684115-7c568b3b-8f4f-45a9-b8a8-744fe6d929b8.png)
+
 
 
 +downloading
